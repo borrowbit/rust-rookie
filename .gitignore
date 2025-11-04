@@ -1,0 +1,20 @@
+*/target/
+
+*.prof
+*.profraw
+*.rlib
+*.pdb
+
+*.log
+*.tmp
+*.swp
+*.swo
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ОС
+.DS_Store
+Thumbs.db
